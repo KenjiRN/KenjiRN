@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Kenji, Brazilian based in Budapest. <br>
+My name is Kenji, 📍Brazilian based in Budapest. <br>
 Professional in career transition, currently studying systems analysis and development with
- emphasis on software development/coding and quality. <br><br> I am a Mechanical and Automation Engineer
+ emphasis on software development/coding and quality. <br><br>⚙💻 I am a Mechanical and Automation Engineer
  and I have experience in: Projects, Processes, Quality, Maintenance and Problem Solving.
 
 <div align="center">
@@ -40,13 +40,8 @@ Professional in career transition, currently studying systems analysis and devel
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Front-end / Quality
+- 🌱 I’m currently learning JavaScript, HTML/CSS(Flexbox, Sass, Grid, Bootstrap), Cypress, Node Js
+- 🤞 I’m looking for help with Jobs, Open to work
 
 
