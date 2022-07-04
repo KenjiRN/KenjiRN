@@ -6,8 +6,8 @@ Professional in career transition, currently studying systems analysis and devel
 
 <div align="center">
   <a href="https://github.com/kenjirn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kenjirn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjirn&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kenjirn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenjirn&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
