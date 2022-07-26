@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 My name is Kenji, 📍Brazilian based in Budapest. <br>
 Professional in career transition, currently studying systems analysis and development with
  emphasis on software development/coding and quality. <br><br>⚙💻 I am a Mechanical and Automation Engineer
